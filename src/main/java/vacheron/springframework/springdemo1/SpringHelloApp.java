@@ -1,4 +1,4 @@
 package vacheron.springframework.springdemo1;
 
-public class myApp {
+public class SpringHelloApp {
 }

@@ -1,4 +1,5 @@
 package vacheron.springframework.springdemo1;
 
-public class Coach {
+public interface Coach {
+    public String getDailyWorkout();
 }
